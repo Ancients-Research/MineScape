@@ -1,0 +1,45 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# cloudfare
+.open-next
+
+.DS_Store
+app/.DS_Store
+components/.DS_Store
+lib/.DS_Store
+node_modules/.DS_Store
+public/.DS_Store
+styles/.DS_Store
+app/dashboard/.DS_Store
+app/dashboard/collection/.DS_Store
+app/dashboard/collection/[id]/.DS_Store
+app/dashboard/collection/[id]/mint/.DS_Store
+app/dashboard/create-collection/.DS_Store
+app/api/.DS_Store
+app/api/upload/.DS_Store
