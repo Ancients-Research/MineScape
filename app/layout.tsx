@@ -12,7 +12,7 @@ const pressStart2P = Press_Start_2P({
 export const metadata: Metadata = {
   title: "MineScape - Decentralized Sandbox World-Building",
   description:
-    "MineScape is a decentralized sandbox protocol that empowers users to collaboratively create, own, and monetize virtual worlds built on Filecoin.",
+    "MineScape is a decentralized sandbox protocol that empowers users to collaboratively create, own, and monetize virtual worlds anchored to Filecoin storage.",
   generator: "v100.app",
   icons: {
     icon: [
