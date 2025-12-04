@@ -13,23 +13,19 @@ export const metadata: Metadata = {
   title: "MineScape - Decentralized Sandbox World-Building",
   description:
     "MineScape is a decentralized sandbox protocol that empowers users to collaboratively create, own, and monetize virtual worlds built on Filecoin.",
-  generator: "v0.app",
+  generator: "v100.app",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/ms-icon.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/ms-icon.png",
         media: "(prefers-color-scheme: dark)",
       },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
     ],
-    apple: "/apple-icon.png",
+    apple: "/ms-icon.png",
   },
 }
 
