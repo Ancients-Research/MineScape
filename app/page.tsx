@@ -52,7 +52,7 @@ export default function MineScapeLanding() {
                 size="lg"
                 className="gap-2 text-base px-8 bg-[#00aa00] hover:bg-[#00ff00] text-black font-bold border-2 border-black shadow-[4px_4px_0_0_rgba(0,0,0,0.8)] hover:shadow-[2px_2px_0_0_rgba(0,0,0,0.8)] transition-all"
               >
-                <a href="https://blob.v0.app/lhpov.pdf" download="MineScape-Whitepaper.pdf">
+                <a href="https://raw.githubusercontent.com/Ancients-Research/MineScape/refs/heads/main/MineScape%20Whitepaper%20Latest.pdf" download="MineScape-Whitepaper.pdf">
                   📥 Download Whitepaper
                 </a>
               </Button>
@@ -61,7 +61,7 @@ export default function MineScapeLanding() {
                 size="lg"
                 className="gap-2 text-base px-8 bg-[#5865f2] hover:bg-[#7289da] text-white font-bold border-2 border-black shadow-[4px_4px_0_0_rgba(0,0,0,0.8)] hover:shadow-[2px_2px_0_0_rgba(0,0,0,0.8)] transition-all"
               >
-                <a href="https://discord.gg/minescape" target="_blank" rel="noopener noreferrer">
+                <a href="https://discord.gg/wU4JKPRJ" target="_blank" rel="noopener noreferrer">
                   💬 Join Discord
                 </a>
               </Button>
@@ -205,7 +205,7 @@ export default function MineScapeLanding() {
               size="lg"
               className="gap-2 text-base px-8 bg-[#00aa00] hover:bg-[#00ff00] text-black font-bold border-2 border-black shadow-[4px_4px_0_0_rgba(0,0,0,0.8)] hover:shadow-[2px_2px_0_0_rgba(0,0,0,0.8)] transition-all"
             >
-              <a href="https://blob.v0.app/lhpov.pdf" download="MineScape-Whitepaper.pdf">
+              <a href="https://raw.githubusercontent.com/Ancients-Research/MineScape/refs/heads/main/MineScape%20Whitepaper%20Latest.pdf" download="MineScape-Whitepaper.pdf">
                 📥 Download Whitepaper
               </a>
             </Button>
@@ -214,7 +214,7 @@ export default function MineScapeLanding() {
               size="lg"
               className="gap-2 text-base px-8 bg-[#5865f2] hover:bg-[#7289da] text-white font-bold border-2 border-black shadow-[4px_4px_0_0_rgba(0,0,0,0.8)] hover:shadow-[2px_2px_0_0_rgba(0,0,0,0.8)] transition-all"
             >
-              <a href="https://discord.gg/minescape" target="_blank" rel="noopener noreferrer">
+              <a href="https://discord.gg/wU4JKPRJ" target="_blank" rel="noopener noreferrer">
                 💬 Join Discord
               </a>
             </Button>
@@ -238,22 +238,14 @@ export default function MineScapeLanding() {
               <span className="text-lg font-bold text-[#f5deb3]">MineScape</span>
             </div>
             <div className="flex gap-6 text-sm text-[#c9b88a]">
-              <a href="https://minescape.xyz" className="hover:text-[#f5deb3] transition-colors">
+              <a href="https://minescape.ancientsresearch.xyz/" className="hover:text-[#f5deb3] transition-colors">
                 Website
               </a>
-              <a href="mailto:contact@minescape.xyz" className="hover:text-[#f5deb3] transition-colors">
+              <a href="mailto:cs@guazi.io" className="hover:text-[#f5deb3] transition-colors">
                 Contact
               </a>
               <a
-                href="https://twitter.com/minescape"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-[#f5deb3] transition-colors"
-              >
-                X (Twitter)
-              </a>
-              <a
-                href="https://discord.gg/minescape"
+                href="https://discord.gg/wU4JKPRJ"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#f5deb3] transition-colors"
